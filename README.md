@@ -1,2 +1,4 @@
 # Question1-leapmonth
-exam
+EXAM
+
+Simple java code to tell whether a month is a leap month or not 
